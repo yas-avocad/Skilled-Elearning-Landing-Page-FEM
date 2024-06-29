@@ -113,6 +113,7 @@ INTRO HERO
   width: 100%;
   min-width: 375px;
   max-width: 375px;
+  object-fit: contain;
 
 }
 
